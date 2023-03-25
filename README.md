@@ -1,2 +1,2 @@
 # MyPoliCV
-e caterinca maxima de programre
+e caterinca maxima de programare
