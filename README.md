@@ -1,5 +1,8 @@
+# Turing Machine
 
-This file contains the all around subject of the project and file contents
+## Constantinescu Vlad
+
+>This file contains the all around subject of the project and file contents
 
 1. Subject:
 
